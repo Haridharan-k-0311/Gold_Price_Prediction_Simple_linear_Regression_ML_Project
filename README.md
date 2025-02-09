@@ -89,7 +89,7 @@ pip install -r requirements.txt
 
 Below is a sample output from the project showing the relationship between the gold price and the USD/INR exchange rate. The plot visualizes how the gold price changes over time based on the model's predictions.
 
-![Sample Output](sample_output/Screenshot 2025-02-09 171445.png)
+![Sample Output](https://github.com/Haridharan-k-0311/Gold_Price_Prediction_Simple_linear_Regression_ML_Project/sample_output/output.png)
 
 In this example, the predicted gold prices are shown, and the trend over time can be observed. You can modify the path to the image to match the location of your output file.
 
